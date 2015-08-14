@@ -5,6 +5,7 @@ This simulator allows you to investigate the inner workings of intergrated circu
 
 Library Functions
 
+
 OR(a,b)     These are the 6 logic gates that can be used to create most any icc
 AND(a,b)    Google search 'logic gates' will provide much more succinct information than 
 XOR(a,b)    I will, and also pictures :)
